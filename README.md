@@ -1,12 +1,26 @@
 # 全栈产品经理培养系列教程
 
-## CHARPER00: [概述](./docs/charter00-overview.md)
-- [全栈产品经理的定义](./docs/charter00-overview.md#1)
-- [全栈产品经理应该具备的工具栈](./docs/charter00-overview.md#2)
-- [该教程的写作思路以及目标](./docs/charter00-overview.md#3)
+## 第一章: [概述](./docs/charter00-overview.md)
+- 全栈产品经理的定义
+- 全栈产品经理应该具备的工具栈
+- 该教程的写作思路以及目标
 
-## CHARPER01: [着手之前，为你的产品设计必要的世界观](./docs/Untitled.md)
-## CHARPER01: [设计逻辑严谨又有温度的产品，你只需要Get这些点](./docs/Untitled.md)
-## CHARPER01: [让你的产品获得用户和媒体的持续关注](./docs/Untitled.md)
-## CHARPER01: [身为产品经理们的修行之道](./docs/Untitled.md)
-## CHARPER01: [基于方法论，重新设计某宝App](./docs/Untitled.md)
+## 第二章: [着手之前，为你的产品设计必要的世界观](./docs/Untitled.md)
+- 愿景、估值、产品格局
+- 量化所有，突出重点
+- 与生俱来的产品属性
+
+## 第三章: [设计逻辑严谨又有温度的产品，你只需要Get这些点](./docs/Untitled.md)
+- 抄袭的艺术
+- 设计即文档，交互即流程
+- 设计和交互首先是逻辑学，其次才是美学
+- 产品架构凌驾设计与交互之上
+- 万绿丛中一点红
+- 我所推崇的产品工作流
+- 产品的角度如何辩证看待「中/||高||保真产品原型」
+- 产品的角度如何辩证看待数据
+- 产品的角度如何辩证看待商业化
+
+## 第四章: [让你的产品获得用户和媒体的持续关注](./docs/Untitled.md)
+## 第五章: [身为产品经理们的修行之道](./docs/Untitled.md)
+## 第六章: [基于方法论，重新设计某宝App](./docs/Untitled.md)

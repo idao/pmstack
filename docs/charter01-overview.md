@@ -11,12 +11,13 @@
 
 - [Axure](http://axure.com)
 - [Sketch](http://sketchapp.com)
+- [Principle](http://principleux.com/)
 - Markdown
 - Excel
-- [Principle](http://principleux.com/)
 - HTML5 + CSS3 + JavaScript
-- HTTP 协议
-- Database 存储结构
+- 后端MVC、前端MVC
+- HTTP协议
+- 关系型数据库、非关系型数据库
 
 
 ## 该教程的写作思路以及目标

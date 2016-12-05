@@ -44,14 +44,19 @@
 
 
 ## 第五章: [身为产品经理们的修行之道](./docs/Untitled.md)
+
+### 软件
 - [Axure](http://axure.com)
 - [Sketch](http://sketchapp.com)
+- [Principle](http://principleux.com/)
 - Markdown
 - Excel
-- [Principle](http://principleux.com/)
+
+### 技术
 - HTML5 + CSS3 + JavaScript
+- 后端MVC、前端MVC
 - HTTP协议
-- Database存储结构
+- 关系型数据库、非关系型数据库
 
 
 

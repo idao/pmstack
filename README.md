@@ -45,14 +45,14 @@
 
 ## 第五章: [身为产品经理们的修行之道](./docs/Untitled.md)
 
-### 软件
+### 软件实战篇
 - [Axure](http://axure.com)
 - [Sketch](http://sketchapp.com)
 - [Principle](http://principleux.com/)
 - Markdown
 - Excel
 
-### 技术
+### 技术理念篇
 - HTML5 + CSS3 + JavaScript
 - 后端MVC、前端MVC
 - HTTP协议
